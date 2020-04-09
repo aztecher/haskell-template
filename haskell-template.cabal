@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 53cd4572bd01e808058acb9139b9682e4a356013f05c174aed3f5f1bb01560a6
+-- hash: e8799f35e97533a4a314990fa4f1df32efc296e8d91cf78cb884285d1224d1aa
 
 name:           haskell-template
 version:        0.1.0.0
@@ -27,7 +27,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      TreesThatGrows.Example
   other-modules:
       Paths_haskell_template
   hs-source-dirs:

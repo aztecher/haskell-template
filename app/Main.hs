@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import TreesThatGrows.Example as TTG
 
 main :: IO ()
-main = someFunc
+main = TTG.example
